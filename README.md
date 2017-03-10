@@ -1,1 +1,1 @@
-# BIT
+BIT workshop
